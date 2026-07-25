@@ -48,6 +48,13 @@
 - title: Grants
   type: time_table
   contents:
+    - title: Nom character recognition using deep learning
+      year: 2025-2026
+      items: 
+        - Ministry of Education and Training (MOET) of Vietnam, under the project code B2025-VGU-01
+        - Principal investigator
+        - 500,000,000 VND
+
     - title: Deep metric learning through local attention and generative loss
       year: 2021-2023
       items: 

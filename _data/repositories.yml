@@ -3,4 +3,6 @@ github_users:
 
 github_repos:
   - ntcuong2103/traffic_sign_detection_pytorch
-  - ntcuong2103/math_clustering_wcnn
+  - ntcuong2103/math_online_egat
+  - ntcuong2103/nom-ids
+  - ntcuong2103/programming-1
