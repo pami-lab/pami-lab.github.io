@@ -2,9 +2,9 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Cuong Tuan Nguyen's projects.
-nav: false
-nav_order: 5
+description: Research projects of the PAMI Lab.
+nav: true
+nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---

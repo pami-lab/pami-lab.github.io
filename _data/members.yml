@@ -1,0 +1,85 @@
+pi:
+  - name: Dr. Cuong Tuan Nguyen
+    personal_page: /pi/
+
+current_students:
+  undergraduate:
+    B4:
+      - name: Nguyen Minh Nhat Huy
+        personal_page: ""
+    B3:
+      - name: Pham Dinh Trung Hieu
+        personal_page: ""
+      - name: Le Minh Khang
+        personal_page: ""
+    interns:
+      - name: Khang Nguyen Duc
+        personal_page: ""
+      - name: Khanh Nguyen Duy
+        personal_page: ""
+      - name: Khoa Le Quang Minh
+        personal_page: ""
+      - name: Khoi Nguyen Vo Minh
+        personal_page: ""
+      - name: Khoi Nguyen Vu Minh
+        personal_page: ""
+      - name: Tai Hoang Duc
+        personal_page: ""
+  master: []
+  doctoral: []
+
+alumni:
+  master: []
+  bachelor:
+    - name: Ton That Nhat Minh
+      thesis_title: ""
+      graduation_year: ""
+      study_program: CSE
+    - name: Tran Hai Duong
+      thesis_title: ""
+      graduation_year: ""
+      study_program: CSE
+    - name: Nguyen Duc Thang
+      thesis_title: "Fine-tuning Distributed Rate Limiter: A Multi-Scenario Performance Evaluation"
+      graduation_year: ""
+      study_program: CSE
+    - name: Tran Quang Minh
+      thesis_title: Stochastic Updating in Federated Learning
+      graduation_year: ""
+      study_program: CSE
+    - name: Nguyen Quoc Huy
+      thesis_title: Labeling detection dataset with detection and tracking models
+      graduation_year: ""
+      study_program: CSE
+    - name: Tran Ngoc Duy Chuong
+      thesis_title: Local temporal feature for time series prediction
+      graduation_year: ""
+      study_program: CSE
+    - name: Le Hoang Kim Thanh
+      thesis_title: "Studying Deep Neural Networks applied in forecasting weather: a scenario of Mekong Delta"
+      graduation_year: ""
+      study_program: CSE
+    - name: Ha Cam Tu
+      thesis_title: "Time Series Data Analytics leveraging machine learning algorithms: A scenario in Meteorology"
+      graduation_year: ""
+      study_program: CSE
+    - name: Vuong Khanh Linh
+      thesis_title: Racing game control using reinforcement learning and visual attention
+      graduation_year: ""
+      study_program: CSE
+    - name: Nguyen Xuan Khang
+      thesis_title: "Design and Implementation of a Data Pipeline for Rental Room Data using Open-Source Tools: An Analysis"
+      graduation_year: ""
+      study_program: CSE
+    - name: Tran Minh Hoang
+      thesis_title: "Recognition of Handwritten Chemical Structures leveraging advances in the Transformer model."
+      graduation_year: ""
+      study_program: CSE
+    - name: Ho Vinh Hao
+      thesis_title: Integrating Deep Q-Learning for Navigation in Non-Player Character Games
+      graduation_year: ""
+      study_program: CSE
+    - name: Berger Carlo
+      thesis_title: The JarvisAI Home station
+      graduation_year: ""
+      study_program: Hochschule Aalen

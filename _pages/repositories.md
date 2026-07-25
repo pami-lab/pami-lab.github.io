@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: Repositories
 description: Cuong Tuan Nguyen's repositories.
-nav: true
+nav: false
 nav_order: 3
 ---
 
