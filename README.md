@@ -660,3 +660,17 @@ The theme is available as open source under the terms of the [MIT License](https
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.
+# PAMI Lab website
+
+This is the website of the Pattern Analysis and Machine Intelligence (PAMI) Lab at Vietnamese-German University.
+
+## Maintaining lab content
+
+- Add a Markdown file to `_news/` to publish a news item; the newest items appear on the home page.
+- Add or update a BibTeX entry in `_bibliography/papers.bib` for publications. Update `_pages/publications.md` only when year/grouping rules change.
+- Edit `_data/members.yml` for current members and alumni.
+- Edit `_data/grants.yml` for research funding records.
+- Edit `_pages/collaborations.md` and `_pages/teaching.md` directly for collaborations and teaching updates.
+- Projects remain collection-driven from `_projects/*.md`.
+
+Build locally with `bundle exec jekyll serve`.

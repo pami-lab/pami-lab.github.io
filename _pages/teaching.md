@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses and supervision activities associated with the PAMI Lab.
 nav: true
-nav_order: 2
+nav_order: 6
 ---
 
-Below is a list of courses taught.
+The PAMI Lab contributes to teaching in computer science, artificial intelligence, data science, and programming. The table below is maintained as a concise record of lab-affiliated courses.
 
 Term code legend: `WT` = Winter Term, `ST` = Summer Term.
 

@@ -1,0 +1,27 @@
+- title: Nom character recognition using deep learning
+  funder: Ministry of Education and Training (MOET) of Vietnam, project code B2025-VGU-01
+  period: 2025-2026
+  role: Principal Investigator
+  amount: 500,000,000 VND
+  status: Active
+
+- title: Deep metric learning through local attention and generative loss
+  funder: KAKENHI Grant-in-Aid for Early-Career Scientists (21K17761)
+  period: 2021-2023
+  role: Principal Investigator
+  amount: 4,420,000 JPY
+  status: Completed
+
+- title: Enhancement of handwritten mathematical expression recognition through establishment of multi-dimensional structural analysis
+  funder: KAKENHI Grant-in-Aid for Scientific Research (A) (19H01117)
+  period: 2019-2022
+  role: Co-investigator
+  amount: 37,830,000 JPY
+  status: Completed
+
+- title: A Sequence-to-sequence Model based Dissimilarity Measurement for Clustering Structural Data
+  funder: KAKENHI Grant-in-Aid for Early-Career Scientists (18K18068)
+  period: 2018-2020
+  role: Principal Investigator
+  amount: 4,030,000 JPY
+  status: Completed
