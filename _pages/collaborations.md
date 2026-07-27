@@ -10,12 +10,10 @@ nav_order: 7
 ## Institutions
 
 - Vietnamese-German University (VGU)
-- Tokyo University of Agriculture and Technology (TUAT)
+- Tokyo University of Agriculture and Technology (TUAT): [Nakagawa Lab](https://web.tuat.ac.jp/~nakagawa/en/index.html)
+- FPT University: [AiTA Lab](https://aita-lab.github.io/)
 
 ## Industry
 
 - We welcome partnerships on document intelligence, handwriting recognition, and applied AI.
 
-## International partners
-
-- The lab collaborates with researchers and research groups across Asia and Europe.
