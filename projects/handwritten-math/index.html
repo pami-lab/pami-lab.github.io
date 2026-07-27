@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Projects |   </title>
+    <title>Handwritten mathematics recognition |   </title>
     <meta name="author" content="  ">
-    <meta name="description" content="Research projects of the PAMI Lab.">
+    <meta name="description" content="Recognition of handwritten mathematical expressions from online pen strokes and offline images.">
 
 
     <!-- Bootstrap & MDB -->
@@ -37,7 +37,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://pami-lab.github.io/projects/">
+    <link rel="canonical" href="https://pami-lab.github.io/projects/handwritten-math/">
 
     <!-- Dark Mode -->
     
@@ -77,8 +77,8 @@
               
 
               <!-- Other pages -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/projects/">Projects<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/projects/">Projects</a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/publications/">Publications</a>
@@ -124,53 +124,29 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Projects</h1>
-            <p class="post-description">Research projects of the PAMI Lab.</p>
+            <h1 class="post-title">Handwritten mathematics recognition</h1>
+            <p class="post-description">Recognition of handwritten mathematical expressions from online pen strokes and offline images.</p>
           </header>
 
           <article>
-            <!-- pages/projects.md -->
-<div class="projects">
-  <!-- Display categorized projects -->
-  <h2 class="category">work</h2>
-  <!-- Generate cards for each project -->
-  <div class="grid">
-<!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/handwritten-math/">
-      <div class="card hoverable">
-<figure>
+            <h2 id="overview">Overview</h2>
 
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/project1-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/project1-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/project1-1400.webp"></source>
-    
+<p>This project develops methods for recognizing handwritten mathematical expressions. The work addresses both online recognition, where the sequence of pen strokes is available, and offline recognition, where the input is an image. Our approaches combine neural sequence models, symbol-level relations, global context, and grammar-based structural analysis to convert handwritten expressions into structured representations such as LaTeX.</p>
 
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/project1.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+<p>The research has explored symbol segmentation and recognition, spatial-relation classification, relation-based representations, weakly supervised end-to-end recognition, and graph neural networks for expression structure recognition. Experiments use the CROHME datasets and related handwriting-recognition benchmarks.</p>
 
-  </picture>
+<h2 id="references">References</h2>
 
-</figure>
+<ul>
+  <li>Nguyen, C. T., Nguyen, N. T., Dao, T. H. M., Nguyen, H. M. N., &amp; Dinh, H. T. (2026). <a href="https://doi.org/10.1007/978-3-032-09368-4_17" rel="external nofollow noopener" target="_blank">Link Prediction Graph Neural Networks for Structure Recognition of Handwritten Mathematical Expressions</a>. In <em>Document Analysis and Recognition – ICDAR 2025 Workshops</em>, 279–291.</li>
+  <li>Truong, T. N., Nguyen, H. T., Nguyen, C. T., &amp; Nakagawa, M. (2022). <a href="https://doi.org/10.1007/978-3-031-02444-3_23" rel="external nofollow noopener" target="_blank">Learning Symbol Relation Tree for Online Handwritten Mathematical Expression Recognition</a>. <em>Lecture Notes in Computer Science</em>, 13189, 307–321.</li>
+  <li>Nguyen, C. T., Truong, T. N., Nguyen, H. T., &amp; Nakagawa, M. (2021). <a href="https://doi.org/10.1007/978-3-030-86331-9_40" rel="external nofollow noopener" target="_blank">Global Context for Improving Recognition of Online Handwritten Mathematical Expressions</a>. <em>Lecture Notes in Computer Science</em>, 12822, 617–631.</li>
+  <li>Nguyen, C. T., Nguyen, H. T., Morizumi, K., &amp; Nakagawa, M. (2021). <a href="https://doi.org/10.1007/978-3-030-86159-9_8" rel="external nofollow noopener" target="_blank">Temporal Classification Constraint for Improving Handwritten Mathematical Expression Recognition</a>. In <em>ICDAR 2021 Workshops</em>, 113–125.</li>
+  <li>Truong, T. N., Ung, H. Q., Nguyen, H. T., Nguyen, C. T., &amp; Nakagawa, M. (2021). <a href="https://doi.org/10.1007/978-3-030-86198-8_1" rel="external nofollow noopener" target="_blank">Relation-Based Representation for Handwritten Mathematical Expression Recognition</a>. In <em>ICDAR 2021 Workshops</em>, 7–19.</li>
+  <li>Nguyen, C. T., Truong, T. N., Ung, H. Q., &amp; Nakagawa, M. (2020). <a href="https://doi.org/10.1109/ICFHR2020.2020.00071" rel="external nofollow noopener" target="_blank">Online Handwritten Mathematical Symbol Segmentation and Recognition with Bidirectional Context</a>. In <em>ICFHR</em>, 355–360.</li>
+  <li>Truong, T. N., Nguyen, C. T., Phan, K. M., &amp; Nakagawa, M. (2020). <a href="https://doi.org/10.1109/ICFHR2020.2020.00042" rel="external nofollow noopener" target="_blank">Improvement of End-to-End Offline Handwritten Mathematical Expression Recognition by Weakly Supervised Learning</a>. In <em>ICFHR</em>, 181–186.</li>
+</ul>
 
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">Handwritten mathematics recognition</h2>
-          <p class="card-text">Recognition of handwritten mathematical expressions from online pen strokes and offline images.</p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
-</div>
-  </div>
-  <h2 class="category">fun</h2>
-  <!-- Generate cards for each project -->
-  <div class="grid">
-  </div>
-</div>
 
           </article>
 
