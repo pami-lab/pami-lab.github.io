@@ -12,6 +12,11 @@ current_students:
         personal_page: ""
       - name: Le Minh Khang
         personal_page: ""
+    B2:
+      - name: Tran Huu Vu Phuong
+        personal_page: ""
+      - name: Nguyen Le Minh Son
+        personal_page: ""
     interns:
       - name: Khang Nguyen Duc
         personal_page: ""
